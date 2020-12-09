@@ -1,0 +1,8 @@
+Discrete Fractional Fourier Transform
+
+In the file 'testfrft.m', define the values of 'x'(time axis) along which you wish the signal to be defined. Define the signal as 'y'.
+On running the code, the graph will show the real, imaginary and magnitude of the discrete fractional Fourier transform of the signal.
+The file 'DisFrFT.m' is the function file of discrete fractional Fourier transform.
+
+The Hermite-Gaussian functions can be implemented with 'Hermite_Gaussian.m' code. 
+Enter the value of 'k' for which you wish to determine the Hermite-Gaussian function.
